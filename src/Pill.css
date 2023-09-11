@@ -1,0 +1,7 @@
+p {
+    color: var(--primary-text-color);
+}
+
+.pill {
+    border: 0.01rem solid var(--primary-accent-color);
+}

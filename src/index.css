@@ -1,0 +1,23 @@
+:root {
+    --primary-bg-color: #fff;
+    --primary-text-color: #000;
+    --primary-accent-color: #d8d5d5;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 16px;
+}
+
+body {
+    font-family: 'Arial Rounded MT Bold', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-size: 1rem;
+}

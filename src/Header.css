@@ -1,0 +1,10 @@
+header {
+    color: var(--primary-text-color);
+    background-color: var(--primary-bg-color);
+    border-bottom: 0.01rem solid var(--primary-accent-color);
+    padding: 0.5rem 0;
+}
+
+header h1 {
+    font-size: 2rem;
+}
